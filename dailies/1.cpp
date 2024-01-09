@@ -1,5 +1,5 @@
 // 455. Assign Cookies
-// angulo.teresa
+// anguloteresa
 #include <iostream>
 #include <vector>
 using namespace std;
